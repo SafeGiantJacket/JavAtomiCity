@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ChemReaction
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=comps
+comment2.target=java.util.Map\ countAtoms(java.lang.String[])
+comment3.params=comp
+comment3.target=java.util.Map\ parseCompound(java.lang.String)
+numComments=4

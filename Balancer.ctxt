@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Balancer
+comment1.params=pre_reactants_String\ pre_products_String
+comment1.target=java.lang.String\ bal(java.lang.String,\ java.lang.String)
+comment2.params=inputString
+comment2.target=java.util.Hashtable\ parseString(java.lang.String)
+comment3.params=reactant_String\ product_String
+comment3.target=java.lang.String[]\ polyatomicReplacement(java.lang.String,\ java.lang.String)
+comment4.params=inputString
+comment4.target=java.util.Hashtable\ parseCompound(java.lang.String)
+comment5.params=inputString
+comment5.target=java.util.LinkedList\ getElements(java.lang.String)
+numComments=6
